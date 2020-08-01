@@ -1,11 +1,14 @@
 _repo: Dissertation-on-the-Gipseys-Representing-their-manner-of-life-family-economy-occupations-trad__62745
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Raper, Matthew
     deathdate: 1778
     gutenberg_agent_id: '52084'
     url: http://www.gutenberg.org/2009/agents/52084
+covers:
+- cover_type: archival
+  image_path: 62745-h/images/cover.jpg
 creator:
   author:
     agent_name: Grellmann, Heinrich Moritz Gottlieb
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52099
     wikipedia: https://de.wikipedia.org/wiki/Heinrich_Moritz_Gottlieb_Grellmann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62745#Dissertation-on-the-Gipseys-Representing-their-manner-of-life-family-economy-occupations-trad_
 gutenberg_issued: '2020-07-24'
 gutenberg_type: Text
 identifiers:
