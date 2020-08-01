@@ -1,0 +1,36 @@
+_repo: Dissertation-on-the-Gipseys-Representing-their-manner-of-life-family-economy-occupations-trad__62745
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Raper, Matthew
+    deathdate: 1778
+    gutenberg_agent_id: '52084'
+    url: http://www.gutenberg.org/2009/agents/52084
+creator:
+  author:
+    agent_name: Grellmann, Heinrich Moritz Gottlieb
+    alias: Grellmann, H. M. G. (Heinrich Moritz Gottlieb)
+    birthdate: 1756
+    deathdate: 1804
+    gutenberg_agent_id: '52099'
+    url: http://www.gutenberg.org/2009/agents/52099
+    wikipedia: https://de.wikipedia.org/wiki/Heinrich_Moritz_Gottlieb_Grellmann
+description: ''
+gutenberg_issued: '2020-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62745'
+  lccn: '13002246'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DX'
+- !lcsh 'Romanies'
+- GITenberg
+title: "Dissertation on the Gipseys\r\nRepresenting their manner of life, family economy,\
+  \ occupations & trades, marriages & education, sickness, death, & burial, religion,\
+  \ language, sciences & arts, &c. &c. &c.; with an historical enquiry concerning\
+  \ their origin & first appearance in Europe"
+url: http://www.gutenberg.org/ebooks/62745
